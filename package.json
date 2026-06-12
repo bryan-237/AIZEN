@@ -65,3 +65,8 @@
   },
   "homepage": "https://github.com/ntkhang03/Goat-Bot-V2#readme"
 }
+{
+  "engines": {
+    "node": "24.x"
+  }
+}
