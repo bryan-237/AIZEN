@@ -55,5 +55,13 @@
     "start": "node index.js"
   },
   "author": "NTKhang",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntkhang03/Goat-Bot-V2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ntkhang03/Goat-Bot-V2/issues"
+  },
+  "homepage": "https://github.com/ntkhang03/Goat-Bot-V2#readme"
 }
