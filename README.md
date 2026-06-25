@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=GoatBot-Pro;Facebook+Messenger+Bot+Framework;Built+on+Goat+Bot+V2+%E2%80%94+Modified+by+EryXenX;Fast+%E2%80%A2+Smart+%E2%80%A2+Reliable+%E2%80%A2+Powerful" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=GoatBot-Pro;Facebook+Messenger+Bot+Framework;Built+on+Goat+Bot+V2+%E2%80%94+Modified+by+BRyAN;Fast+%E2%80%A2+Smart+%E2%80%A2+Reliable+%E2%80%A2+Powerful" />
 
 <br/>
 
 ![Version](https://img.shields.io/badge/Version-2.0.0-00FFD1?style=for-the-badge&logo=github&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Base](https://img.shields.io/badge/Based_on-Goat_Bot_V2-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Fork](https://img.shields.io/badge/Fork_by-EryXenX-9B59B6?style=for-the-badge&logo=github&logoColor=white)
-![FCA](https://img.shields.io/badge/FCA-fca--eryxenx-00FFD1?style=for-the-badge&logoColor=black)
+![Fork](https://img.shields.io/badge/Fork_by-BRYAN-9B59B6?style=for-the-badge&logo=github&logoColor=white)
+![FCA](https://img.shields.io/badge/FCA-fca--BRYAN-00FFD1?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## ◈ About
 
-Assalamu Alaikum! **GoatBot-Pro** is an enhanced fork of [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) by **ntkhang03**, rebuilt and maintained by **EryXenX (Mohammad Akash)** with new features, multi-language support, and custom commands.
+Assalamu Alaikum! **GoatBot-Pro** is an enhanced fork of [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) by **ntkhang03**, rebuilt and maintained by **BRYAN (SABIN)** with new features, multi-language support, and custom commands.
 
 | Feature | Description |
 |---|---|
@@ -51,7 +51,7 @@ Assalamu Alaikum! **GoatBot-Pro** is an enhanced fork of [Goat Bot V2](https://g
 | Role | Person | Link |
 |---|---|---|
 | 🏆 **Original Creator** | NTKhang | [Goat Bot V2](https://github.com/ntkhang03/Goat-Bot-V2) |
-| 🔧 **This Fork** | EryXenX | [GoatBot-Pro](https://github.com/EryXenX/GoatBot-Pro) |
+| 🔧 **This Fork** | BRYAN | [GoatBot-Pro](https://github.com/EryXenX/GoatBot-Pro) |
 
 > All core copyright belongs to **NTKhang (ntkhang03)**. This fork does not override the original license.
 
@@ -95,9 +95,9 @@ Commands go in `scripts/cmds/yourcommand.js`.
 ```js
 module.exports = {
   config: {
-    name: "commandname",
+    name: "SABIN",
     version: "1.0.0",
-    author: "YourName",
+    author: "BRYAN",
     countDown: 5,
     role: 0,
     shortDescription: "...",
@@ -218,5 +218,5 @@ switch (event.logMessageType) {
 <div align="center">
   <sub>Built on the shoulders of giants · Respect Open Source · Credit your sources</sub>
   <br/>
-  <sub><b>Original Work © NTKhang (ntkhang03) &nbsp;|&nbsp; Fork by EryXenX (Mohammad Akash)</b></sub>
+  <sub><b>Original Work © NTKhang (ntkhang03) &nbsp;|&nbsp; Fork by BRYAN (SABIN)</b></sub>
 </div>
